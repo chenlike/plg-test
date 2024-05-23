@@ -1,0 +1,9 @@
+[project]
+name = "plg"
+version = "0.1.0"
+
+[project.urls]
+"Source" = "https://github.com/chenlike/plg-tes"
+"Documentation" = "https://github.com/chenlike/plg-tes"
+"Bug Tracker" = "https://github.com/chenlike/plg-tes"
+
